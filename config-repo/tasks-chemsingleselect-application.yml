@@ -13,7 +13,7 @@ spring:
   cloud:
     config:
       test:
-        message: Это тестовое сообщение для проверки работы Spring Cloud Config Server храниться в git
+        message: Это тестовое сообщение для проверки работы Spring Cloud Config Server храниться в git/config-repo
 
 
 server:
