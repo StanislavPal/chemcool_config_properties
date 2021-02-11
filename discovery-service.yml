@@ -14,4 +14,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 
-message: This message in the git repository v2
+message: ${project.parent.basedir} This message in the git repository v2
