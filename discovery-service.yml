@@ -14,4 +14,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 
-message: ${project.parent.basedir} This message in the git repository v2
+message: ${user.home} This message in the git repository tttttttttttttttttt v2
